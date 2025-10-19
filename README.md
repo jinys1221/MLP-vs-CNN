@@ -40,12 +40,12 @@ MLP는 여러 개의 퍼셉트론 뉴런을 깊게 쌓은 구조이지만,
 > CNN이 이미지 내 공간 구조를 반영하기 때문에, MLP보다 높은 정확도를 보임.
 
 <p align="center">
-  <img src="D:/project/MLPvsCNN/CNN_train_result.png" width="600"><br>
+  <img src="./CNN_train_result.png" width="600"><br>
   <em>CNN 훈련 손실 및 정확도</em>
 </p>
 
 <p align="center">
-  <img src="D:/project/MLPvsCNN/mlp_train_result.png" width="600"><br>
+  <img src="./mlp_train_result.png" width="600"><br>
   <em>MLP 훈련 손실 및 정확도</em>
 </p>
 
