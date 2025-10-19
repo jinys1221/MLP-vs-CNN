@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="./mlp_train_result.png" width="600"><br>
+  <em>MLP 훈련 손실 및 정확도</em>
+</p>
+
+<p align="center">
+  <img src="./CNN_train_result.png" width="600"><br>
+  <em>CNN 훈련 손실 및 정확도</em>
+</p>
 1. Test Accuracy (정확도) 비교
 
 - **MLP 결과**
