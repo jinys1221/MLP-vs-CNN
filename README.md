@@ -19,13 +19,11 @@ MLP는 여러 개의 퍼셉트론 뉴런을 깊게 쌓은 구조이지만,
 - 두 모델의 성능 비교 및 결과 해석
 
 ## 파일 구성
-- `01_data_load.ipynb`: Fashion MNIST 데이터셋 시각화
-- `02_MLP_train.ipynb`: MLP 모델 학습 실습
-- `03_CNN_train.ipynb`: CNN 모델 학습 실습
-- `data_loader.py`: 데이터 로딩 및 전처리 모듈
-- `CNN_train_result.png`: CNN 테스트 결과 시각화 이미지
-- `MLP_train_result.png`: MLP 테스트 결과 시각화 이미지
-- `notes.md`: 실험 정리 및 메모
+- `01_data_load.ipynb` : Fashion MNIST 데이터 로딩 및 시각화  
+- `02_MLP_train.ipynb` : MLP 기반 이미지 분류 실험  
+- `03_CNN_train.ipynb` : CNN 기반 이미지 분류 실험  
+- `data_loader.py` : 데이터 로딩 및 전처리 모듈  
+- `Image_results/` : 모델별 실험 결과 이미지  
 - `data`: 데이터 저장 디렉토리
 
 ## 실험 결과 요약
